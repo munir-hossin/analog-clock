@@ -162,9 +162,3 @@ setInterval(startOurClock, 1000);
 
 //     return numberAreaParentElement;  
 // }
-
-
-
-
-
-
